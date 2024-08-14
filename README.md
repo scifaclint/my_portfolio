@@ -4,7 +4,7 @@ Welcome to my portfolio repository! This project showcases my skills, experience
 
 ## 🚀 Live Demo
 
-[View My Portfolio](https://your-portfolio-url.com)
+[View My Portfolio](https://scifaclint.github.io/my_portfolio/)
 
 ## 🛠️ Technologies Used
 
